@@ -1,0 +1,8 @@
+pdfplumber
+streamlit
+langchain_community
+langchain_core
+transformers
+datasets
+torch
+soundfile
